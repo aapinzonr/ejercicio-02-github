@@ -1,1 +1,11 @@
-git version 2.36.0.windows.1
+======== Comandos de GIT ========
+git versión: Muestra la versión actual de git
+git status: Muestra el estado actual de un repositorio
+git init: Inicia un nuevo repositorio
+git add: Agrega un archivo al área de trabajo o stage.
+git commit: Almacena los cambios en el repositorio.
+git log: Muestra el historial de commits de un repositorio.
+git remote: Enlaza un repositorio local con un repositorio remoto.
+git push: Carga los cambios de un repositorio local en un repositorio remoto.
+git pull: Sincroniza los cambios de un repositorio remoto en un repositorio local.
+
